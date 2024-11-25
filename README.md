@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kitsumi-K
-- 🌱 I’m a 3rd year Student in computer science
-- 👀 I’m interested in AI, Web and more
+- 👋 Hi, I’m Asato
+- 🌱 I’m a 1st year engeneering student in cumputer science
+- 👀 I’m interested in AI, dev and more
 
